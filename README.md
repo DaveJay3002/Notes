@@ -1,0 +1,1 @@
+This is where I add notes related to everything from technical cheatsheets and my daily tasks.
