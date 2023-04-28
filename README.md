@@ -1,1 +1,2 @@
 This is where I add notes related to everything from technical cheatsheets and my daily tasks. Also I add the solutions notes to LeetCode problems.
+Also the planners that I make about my college exams and submissions.

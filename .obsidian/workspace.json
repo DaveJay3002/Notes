@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "04d699eb5474a6d3",
+            "id": "f9cf1f84fee70f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bulb Switcher.md",
+                "file": "4th Sem Submissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bulb Switcher.md",
+                "file": "4th Sem Submissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bulb Switcher.md",
+                "file": "4th Sem Submissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bulb Switcher.md"
+                "file": "4th Sem Submissions.md"
               }
             }
           }
@@ -159,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04d699eb5474a6d3",
+  "active": "f9cf1f84fee70f80",
   "lastOpenFiles": [
     "README.md",
+    "4th Sem Submissions.md",
+    "4thSemSubmissions",
     "Bulb Switcher.md",
     "2023-04-25.md",
     "Untitled.canvas"
