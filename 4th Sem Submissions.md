@@ -14,4 +14,5 @@
 
 ## Artificial Intelligence
 - Total 7 Practicals 
-- 0 Completed have to do them before Thursday
+- Completed by me
+- Just have to get them printed
