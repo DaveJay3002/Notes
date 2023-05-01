@@ -9,8 +9,7 @@
 
 ## DSA - 2
 - Total 7 Practicals 
-- 4 Practicals Completed
-- I have to do the rest
+- All Practicals completed 
 
 ## Artificial Intelligence
 - Total 7 Practicals 
