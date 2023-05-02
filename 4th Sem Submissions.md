@@ -5,7 +5,7 @@
 
 ## Computer Networks
 -  Total 9 Practicals 
-- 5 Practicals Completed
+- Completed 6 and submitted
 
 ## DSA - 2
 - Total 7 Practicals 
