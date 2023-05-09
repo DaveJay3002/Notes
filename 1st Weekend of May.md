@@ -1,8 +1,8 @@
 - Friday I have to go to college to attend a seminar on ChatGPT
 - Saturday I have my Computer Networks Viva 
 - I have to still prepare for the CN Viva
-- Sunday I have to go to the Polygon Guild Vadodara event at 3:30
-- pm
-- Then I have to go out to have dinner
+- Sunday I have to go to the Polygon Guild Vadodara event at 3:30pm
+- Then I have to go out to have dinner with a friend
 - On Monday I have OS and DSA-2 viva(same day)
 - I have to prepare for OS and DSA Viva
+- [[End-Sem Prep (4th Sem)]]
