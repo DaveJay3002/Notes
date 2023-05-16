@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc44df33681916b",
+        "id": "914ff0eefef79856",
         "type": "tabs",
         "children": [
           {
-            "id": "241981da9375a047",
+            "id": "1304804286b2e03a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Developer Projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bd6a388fe6a2a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brainpower.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95eeade3f5dd12bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swap Linked List Nodes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3576ae7e9e9290bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Signs of a high value MAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c02e46e5df790410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swap Nodes in Pairs.md",
+                "file": "Next.js Version 13.4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swap Nodes in Pairs.md",
+                "file": "Next.js Version 13.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Swap Nodes in Pairs.md",
+                "file": "Next.js Version 13.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swap Nodes in Pairs.md"
+                "file": "Next.js Version 13.4.md"
               }
             }
           }
@@ -203,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c02e46e5df790410",
+  "active": "1304804286b2e03a",
   "lastOpenFiles": [
-    "Swap Linked List Nodes.md",
+    "Next.js Version 13.4.md",
     "Swap Nodes in Pairs.md",
+    "Swap Linked List Nodes.md",
     "Pasted image 20230516122921.png",
     "Signs of a high value MAN.md",
     "Brainpower.md",
