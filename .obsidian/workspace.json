@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "914ff0eefef79856",
+        "id": "d55a360e3f2591e5",
         "type": "tabs",
         "children": [
           {
-            "id": "1304804286b2e03a",
+            "id": "af7b5a697a9e48f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js Version 13.4.md",
+                "file": "4th Sem Finals Schedule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85de04ed8b07d4ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Paper solved.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js Version 13.4.md",
+                "file": "AI Paper solved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js Version 13.4.md",
+                "file": "AI Paper solved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js Version 13.4.md"
+                "file": "AI Paper solved.md"
               }
             }
           }
@@ -154,8 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1304804286b2e03a",
+  "active": "85de04ed8b07d4ce",
   "lastOpenFiles": [
+    "Pasted image 20230523190437.png",
+    "4th Sem Finals Schedule.md",
+    "AI Paper solved.md",
     "Next.js Version 13.4.md",
     "Swap Nodes in Pairs.md",
     "Swap Linked List Nodes.md",
